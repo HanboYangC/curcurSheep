@@ -2,7 +2,7 @@
 - 👀 I’m interested in MachineLearning
 - 🌱 I’m currently learning Python, Java
 
-- 📫 How to reach me :11911410@mail.sustech.edu.cn
+- 📫 How to reach me :yangh@ufl.edu
 
 <!---
 curcurSheep/curcurSheep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
